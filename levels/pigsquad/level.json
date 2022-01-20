@@ -1,0 +1,13 @@
+{
+  "title": "Cube Pig's Grand Aventure",
+  "description": "Cube Pig's got a big day ahead of them!",
+  "questTitle": "Cube Pig's Grand Aventure",
+  "questDescription": "Cube Pig's got a big day ahead of them!",
+  "mission_icon": "conversations/cubepigPortrait.png",
+  "is_mission": true,
+  "priority": 0,
+  "backgroundMusic": "fascinatingarea_108253b",
+  "backgroundEffect": {},
+  "flavorTextOverrides": {},
+  "objectives": []
+}

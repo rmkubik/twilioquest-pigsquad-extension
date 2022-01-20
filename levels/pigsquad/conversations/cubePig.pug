@@ -1,0 +1,20 @@
+conversation(display_name="Cube Pig")
+  case lastResponse
+    when "lets_go"
+      statement#tallyho
+      responses
+
+    default
+      statement#default
+      responses
+        response#lets_go.
+          Let's go!
+
+  statements
+    statement#default
+      text.
+        Are you ready to go on an adventure?!
+    statement#tallyho
+      text.
+        Tally ho!
+

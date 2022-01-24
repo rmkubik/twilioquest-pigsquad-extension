@@ -1,3 +1,5 @@
+![Cube Pig's portrait](./images/conversations/cubepigPortrait.png)
+
 # TwilioQuest PIGSquad Extension
 
 Rescue Cube Pig by learning how to build a bridge in Tiled.
